@@ -1,5 +1,5 @@
 # filter-More
-Implement a program that applies filters to BMPs, including grayscale, reverse, blur and edges. (https://cs50.harvard.edu/x/2021/psets/4/filter/less/)
+Implement a program that applies filters to BMPs, including grayscale, reverse, blur and edges. (https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
 
 ## How to setup
 
